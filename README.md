@@ -1,6 +1,8 @@
 ## Hi there 👋
 [![MasterHead](header.png)](https://github.com/sabaif-s/sabaif-s.git)
- <img align="right" alt="Coding" width="400" src="/web development.mp4">
+<div style=>
+</div>
+ <img align="left" alt="Coding" width="600" src="coding-typing.gif">
 <!--
 **sabaif-s/sabaif-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
