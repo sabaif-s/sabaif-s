@@ -59,9 +59,7 @@ With a knack for **problem-solving** and effective **communication**, I thrive i
 
 I'm open to collaborating on interesting projects. Feel free to reach out if you have ideas or need help with anything!
 
-## 🌟 Fun Fact
-
-Add a fun fact about yourself or something interesting you love to do!
+ 
 <!--
 **sabaif-s/sabaif-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
