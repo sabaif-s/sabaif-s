@@ -1,7 +1,67 @@
 ## Hi there 👋
-[![MasterHead](header.png)](https://github.com/sabaif-s/sabaif-s.git)
+
  
- <img align="left" alt="Coding" width="400" src="coding-typing.gif">
+ 
+I'm a passionate **Full Stack Web Developer** and **Mobile Native App Developer** focused on **Web Development** and **Open Source** contributions. 
+
+With a knack for **problem-solving** and effective **communication**, I thrive in collaborative environments, contributing to team success. 
+
+## Skills
+### Front-End Development
+![HTML5](https://img.shields.io/badge/HTML5-FF5733?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-008CBA?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+
+### Back-End Development
+![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=flat&logo=express&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+
+### Other Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-3F5B93?style=flat&logo=ejs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+
+## 🔭 Currently Working On
+
+- [Project Name 1](link-to-your-project-1) - Brief description of what this project does.
+- [Project Name 2](link-to-your-project-2) - Brief description of what this project does.
+
+## 🌱 Learning
+
+- [Technology/Skill 1]
+- [Technology/Skill 2]
+- [Technology/Skill 3]
+ 
+## 📫 How to Reach Me
+
+- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: [Your LinkedIn Profile](your-linkedin-url)
+- Twitter: [@YourTwitterHandle](your-twitter-url)
+
+## 📈 GitHub Stats
+
+<a href="https://github.com/sabaif-s">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sabaif-s&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabaif-s&theme=buefy&layout=compact" />
+</a>
+
+<br/>
+
+## 🤝 Contributing
+
+I'm open to collaborating on interesting projects. Feel free to reach out if you have ideas or need help with anything!
+
+## 🌟 Fun Fact
+
+Add a fun fact about yourself or something interesting you love to do!
 <!--
 **sabaif-s/sabaif-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
