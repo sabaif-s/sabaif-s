@@ -29,7 +29,7 @@ With a knack for **problem-solving** and effective **communication**, I thrive i
 ![EJS](https://img.shields.io/badge/EJS-3F5B93?style=flat&logo=ejs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
-## 🔭 Currently Working On
+ 
  
 
 ## 🌱 Learning
