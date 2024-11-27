@@ -30,9 +30,7 @@ With a knack for **problem-solving** and effective **communication**, I thrive i
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
 ## 🔭 Currently Working On
-
-- [Project Name 1](link-to-your-project-1) - Brief description of what this project does.
-- [Project Name 2](link-to-your-project-2) - Brief description of what this project does.
+ 
 
 ## 🌱 Learning
 
