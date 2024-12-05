@@ -34,15 +34,15 @@ With a knack for **problem-solving** and effective **communication**, I thrive i
 
 ## 🌱 Learning
 
-- [Technology/Skill 1]
-- [Technology/Skill 2]
-- [Technology/Skill 3]
+- [PWA-Progressive Web App]
+- [Machine Learning]
+
  
 ## 📫 How to Reach Me
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn Profile](your-linkedin-url)
-- Twitter: [@YourTwitterHandle](your-twitter-url)
+- Email: [sebaifmuhammed33@gmail.com](mailto:sebaifmuhammed33@gmail.com)
+- LinkedIn: [SEBAIF MUHAMMED](https://www.linkedin.com/in/sebaif-muhammed-16a402294/)
+ 
 
 ## 📈 GitHub Stats
 
