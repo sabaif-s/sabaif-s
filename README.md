@@ -4,7 +4,7 @@
  
 I'm a passionate **Full Stack Web Developer** and **Mobile Native App Developer** focused on **Web Development** and **Open Source** contributions. 
 
-With a knack for **problem-solving** and effective ** communication**,  I thrive in collaborative environments, contributing to team success. 
+With a knack for **problem-solving** and  effective ** communication**,  I thrive in collaborative environments, contributing to team success. 
 
 ## Skills
 ### Front-End Development
