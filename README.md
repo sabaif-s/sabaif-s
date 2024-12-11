@@ -53,7 +53,7 @@ With a knack for **problem-solving** and  effective ** communication**,  I thriv
 
 <br/>
 
-## 🤝 Contributing
+## 🤝  Contributing
 
 I'm  open to collaborating on interesting projects. Feel free to reach out if you have ideas or need help with anything!
 
