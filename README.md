@@ -1,12 +1,11 @@
 ## Hi there 🌒🌘 👋
 
- 
- 
-I'm a passionate **Full Stack Web Developer** and **Mobile Native App Developer** focused on **Web Development** and **Open Source** contributions. 
+I'm a passionate **Full Stack Web Developer** and **Mobile Native App Developer** focused on **Web Development** and **Open Source** contributions.
 
-With a knack for **problem-solving** and effective ** communication**, I thrive in collaborative environments, contributing to team success. 
+With a knack for **problem-solving** and effective **communication**, I thrive in collaborative environments, contributing to team success.
 
 ## Skills
+
 ### Front-End Development
 ![HTML5](https://img.shields.io/badge/HTML5-FF5733?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-008CBA?style=flat&logo=css3&logoColor=white)
@@ -20,6 +19,7 @@ With a knack for **problem-solving** and effective ** communication**, I thrive 
 ![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-404D59?style=flat&logo=express&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)
+
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
@@ -29,20 +29,15 @@ With a knack for **problem-solving** and effective ** communication**, I thrive 
 ![EJS](https://img.shields.io/badge/EJS-3F5B93?style=flat&logo=ejs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
- 
- 
-
 ## 🌱 Learning
 
-- [PWA-Progressive Web App]
+- [PWA - Progressive Web App]
 - [Machine Learning]
 
- 
 ## 📫 How to Reach Me
 
 - Email: [sebaifmuhammed33@gmail.com](mailto:sebaifmuhammed33@gmail.com)
 - LinkedIn: [SEBAIF MUHAMMED](https://www.linkedin.com/in/sebaif-muhammed-16a402294/)
- 
 
 ## 📈 GitHub Stats
 
@@ -51,13 +46,23 @@ With a knack for **problem-solving** and effective ** communication**, I thrive 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabaif-s&theme=buefy&layout=compact" />
 </a>
 
-<br/>
+### 🔥 GitHub Streak
+<a href="https://github.com/sabaif-s">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=sabaif-s&theme=buefy&date_format=M%20j%5B%2C%20Y%5D" />
+</a>
+
+### 🚀 Contributions This Year
+<a href="https://github.com/sabaif-s">
+  <img height="180em" src="https://github-contributor-stats.vercel.app/api?username=sabaif-s&theme=buefy" />
+</a>
+
+### 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=sabaif-s&style=flat&color=blue)
 
 ## 🤝 Contributing
 
 I'm open to collaborating on interesting projects. Feel free to reach out if you have ideas or need help with anything!
 
- 
 <!--
 **sabaif-s/sabaif-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
