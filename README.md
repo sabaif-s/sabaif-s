@@ -51,10 +51,8 @@ With a knack for **problem-solving** and effective **communication**, I thrive i
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=sabaif-s&theme=buefy&date_format=M%20j%5B%2C%20Y%5D" />
 </a>
 
-### 🚀 Contributions This Year
-<a href="https://github.com/sabaif-s">
-  <img height="180em" src="https://github-contributor-stats.vercel.app/api?username=sabaif-s&theme=buefy" />
-</a>
+ 
+ 
 
 ### 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=sabaif-s&style=flat&color=blue)
