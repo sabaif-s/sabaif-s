@@ -1,81 +1,75 @@
 ## Hi there 🌒🌘 👋
 
-I'm a passionate **Full Stack Web Developer** and **Mobile Native App Developer** focused on **scalable web applications**, **AI-powered features**, and **Open Source** contributions.
+I'm a passionate **Full Stack Web Developer** and **Mobile Native App Developer** focused on **Web Development** and **Open Source** contributions.
 
-I enjoy solving real-world problems, building end-to-end products, and working in collaborative environments where I can contribute to impactful solutions.
+With a knack for **problem-solving** and effective **communication**,   I thrive  in collaborative environments, contributing to team success.
 
----
-
-## 🚀 Skills
+## Skills
 
 ### Front-End Development
 ![HTML5](https://img.shields.io/badge/HTML5-FF5733?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-008CBA?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-
----
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
 ### Back-End Development
 ![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-404D59?style=flat&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-000000?style=flat)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-
----
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-
----
-
-### DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-
----
-
-### Testing
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
-
----
-
-### AI & Modern Tech (🔥 Important)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat)
-![LLM Integration](https://img.shields.io/badge/LLM_Integration-000000?style=flat)
-![Vector DB](https://img.shields.io/badge/Vector_DB-000000?style=flat)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-
----
 
 ### Other Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-3F5B93?style=flat&logo=ejs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
----
-
 ## 🌱 Learning
-- Machine Learning
-- System Design
-- Scalable Architecture
-- AI Engineering (LLMs, RAG, embeddings)
-
----
+- [Machine Learning]
 
 ## 📫 How to Reach Me
+
 - Email: [sebaifmuhammed33@gmail.com](mailto:sebaifmuhammed33@gmail.com)
 - LinkedIn: [SEBAIF MUHAMMED](https://www.linkedin.com/in/sebaif-muhammed-16a402294/)
 
----
+## 📈 GitHub Stats
+
+<a href="https://github.com/sabaif-s">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sabaif-s&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabaif-s&theme=buefy&layout=compact" />
+</a>
+
+### 🔥 GitHub Streak
+<a href="https://github.com/sabaif-s">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=sabaif-s&theme=buefy&date_format=M%20j%5B%2C%20Y%5D" />
+</a>
+
+ 
+ 
+
+### 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=sabaif-s&style=flat&color=blue)
 
 ## 🤝 Contributing
-I'm open to collaborating on interesting projects — especially in **AI**, **full-stack apps**, and **open-source** 🚀
+
+I'm open to collaborating on interesting projects. Feel free to reach out if you have ideas or need help with anything!
+
+<!--
+**sabaif-s/sabaif-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
