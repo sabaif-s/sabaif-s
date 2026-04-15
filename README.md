@@ -30,8 +30,6 @@ With a knack for **problem-solving** and effective **communication**,   I thrive
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
 ## 🌱 Learning
-
-- [PWA - Progressive Web App]
 - [Machine Learning]
 
 ## 📫 How to Reach Me
